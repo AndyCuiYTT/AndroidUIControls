@@ -31,6 +31,11 @@ public class MainActivity extends ListActivity {
         adapter.add(new ListCellData(this,"gridView",new Intent(this,AtyUsingCridView.class)));
         adapter.add(new ListCellData(this,"progressDialog",new Intent(this,AtyUsingProgressDialog.class)));
         adapter.add(new ListCellData(this,"notification",new Intent(this,AtyUsingNotification.class)));
+        adapter.add(new ListCellData(this,"scrollView",new Intent(this,AtyUsingScrollView.class)));
+        adapter.add(new ListCellData(this,"ratingBar",new Intent(this,AtyUsingRatingBar.class)));
+        adapter.add(new ListCellData(this,"imageSwitcher",new Intent(this,AtyUsingImageSwitcher.class)));
+        adapter.add(new ListCellData(this,"galley",new Intent(this,AtyUsingGallery.class)));
+        adapter.add(new ListCellData(this,"editText",new Intent(this,AtyUsingEditText.class)));
 
 
 

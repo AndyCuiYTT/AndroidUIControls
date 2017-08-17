@@ -27,6 +27,11 @@
         <activity android:name=".AtyUsingCridView"></activity>
         <activity android:name=".AtyUsingProgressDialog"></activity>
         <activity android:name=".AtyUsingNotification"></activity>
+        <activity android:name=".AtyUsingScrollView"></activity>
+        <activity android:name=".AtyUsingRatingBar"></activity>
+        <activity android:name=".AtyUsingImageSwitcher"></activity>
+        <activity android:name=".AtyUsingGallery"></activity>
+        <activity android:name=".AtyUsingEditText"></activity>
     </application>
 
 </manifest>
